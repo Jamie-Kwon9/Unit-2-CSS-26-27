@@ -1,0 +1,11 @@
+ body {
+     background-color: rgb(49, 49, 168);
+     color: white;
+ }
+ .stats {
+    background-color: aliceblue;
+    color: black;
+ }
+ #player {
+    background-color: beige;
+ }
